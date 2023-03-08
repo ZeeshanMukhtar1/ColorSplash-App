@@ -8,7 +8,7 @@ ColorSplash is a simple web application that generates random color gradient and
 
 ### Live Link
 
-[Colorsplash]()
+[Colorsplash](https://zeeshanmukhtar1.github.io/ColorSplash-App/)
 
 ### Usage
 
